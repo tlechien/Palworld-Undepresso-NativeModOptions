@@ -1,0 +1,45 @@
+MIT License
+
+Copyright (c) 2026 Undepresso
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+
+BRAND ASSETS ARE NOT COVERED BY THE LICENCE ABOVE
+
+The name "Undepresso", the mascot artwork (assets/undepresso.webp), and the
+Workshop thumbnails generated from it are excluded from the MIT grant and remain
+all rights reserved.
+
+You may fork, modify, vendor and redistribute this code freely, including
+commercially. You may not present the result as an Undepresso release, or ship
+it carrying the mascot or the wordmark. Swap in your own identity and the code
+is yours to do as you like with.
+
+In particular, Scripts/mod_options_client.lua and Scripts/json.lua are meant to
+be copied into your own mod. That is the intended use, no permission needed.
+
+--------------------------------------------------------------------------------
+
+Palworld, its Pals, and all related assets are the property of Pocketpair, Inc.
+This is an unofficial, fan-made modification, not affiliated with or endorsed by
+Pocketpair. The mascot artwork depicts a Pocketpair-owned character; the
+reservation above covers only the original elements of that artwork, not the
+underlying character.
