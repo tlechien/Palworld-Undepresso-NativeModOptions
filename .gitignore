@@ -1,0 +1,25 @@
+# Workshop tool state — regenerated on publish, don't hand-edit or commit conflicting copies
+.workshop.json
+
+# Per-player persisted option values — not source, don't commit
+*.ini
+
+# Build/debug output if you add C++ mods later
+bin/
+obj/
+*.pdb
+*.log
+
+# OS/editor cruft
+.vs/
+.vscode/
+Thumbs.db
+
+# Local snapshots taken before a refactor — never part of the package
+backups/
+
+# Non-production documentation. Research notes belong on disk, not in a shipped package.
+PALWORLD-MODDING-NOTES.md
+docs/FINDING-HOOKS.md
+docs/PUBLISHING.md
+docs/SETUP-UE4SS.md
